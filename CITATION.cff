@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research package, please cite the accompanying manuscript."
+title: "An Invariant-Reduced Abelian Gauge Compactification on the Three-Sphere: Algebraic-Spectral Structure, Reconstructibility, and Confirmatory Synthetic Falsification"
+type: software
+version: "1.0.0-confirmatory"
+date-released: 2026-08-12
+authors:
+  - family-names: "Yıldırım"
+    given-names: "Emirhan"

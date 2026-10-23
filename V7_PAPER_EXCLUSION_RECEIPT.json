@@ -1,0 +1,20 @@
+{
+  "academic_publications_excluded_from_corrected_package": true,
+  "excluded_publication_related_paths": [
+    {
+      "path": "docs/manuscript.tex",
+      "sha256": "e195d43abf4ab6186b2c59aab47235cc39790b551c43acb6cd0adb27f79fd544"
+    },
+    {
+      "path": "docs/supplement.tex",
+      "sha256": "bc6548902ac2306d338a71fe1259791a893e7bbe0058ef7201ba947ba5099594"
+    }
+  ],
+  "new_zip_copies_software_files_only": true,
+  "original_release_zip_filename": "ogd-spherical-spectrum__CP03R1__342a9c3cdae5.zip",
+  "original_release_zip_sha256": "bc6a145bce78fe503bc181bc9b1f947d3d329ac5ce3a399b66513167b3059501",
+  "public_release_approved": false,
+  "repository": "ogd-spherical-spectrum",
+  "schema": "invariant.v7.publication_exclusion.v1",
+  "source_archive_unchanged": true
+}

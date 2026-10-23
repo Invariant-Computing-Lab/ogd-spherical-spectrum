@@ -1,0 +1,20 @@
+{
+  "repo": "ogd-spherical-spectrum",
+  "status": "PASS",
+  "commands": [
+    {
+      "repo": "ogd-spherical-spectrum",
+      "command": [
+        "python",
+        "code/run_confirmatory.py"
+      ],
+      "seconds": 48.51,
+      "returncode": 0,
+      "log": "/mnt/data/release_work/rerun_logs/ogd-spherical-spectrum_0.log",
+      "log_tail": "{\n  \"gates\": {\n    \"G0_normalization\": true,\n    \"G1_quadric\": true,\n    \"G2_gauge\": true,\n    \"G3_spectrum\": true,\n    \"G4_dimension_5modes_2pct\": true,\n    \"G5_joint_5modes_2pct_70det\": true,\n    \"G6_heldout_2pct\": true,\n    \"G7_b1_zero_S3\": true,\n    \"G8_discriminant_centroid\": true\n  },\n  \"summary\": {\n    \"seed\": 84320711,\n    \"E0\": {\n      \"preserve_median\": 2.7755575615628914e-17,\n      \"break_median\": 0.009975461639716063,\n      \"auc\": 1.0\n    },\n    \"E1\": {\n      \"preserve_median\": 2.4723308686249124e-16,\n      \"preserve_ci\": [\n        2.4037031493246043e-16,\n        2.5267484571368965e-16\n      ],\n      \"break_median\": 0.14462529474050173,\n      \"break_ci\": [\n        0.14062110585517024,\n        0.14999415084290899\n      ],\n      \"auc\": 1.0\n    },\n    \"E2\": {\n      \"preserve_median\": 1.4196877127073062e-16,\n      \"preserve_ci\": [\n        1.4026938738602752e-16,\n        1.432914468010979e-16\n      ],\n      \"break_median\": 1.3412092997526623,\n      \"break_ci\": [\n        1.318097622808566,\n        1.3645163066664687\n      ],\n      \"auc\": 1.0\n    },\n    \"E3\": {\n      \"preserve_median\": 9.016266587893853e-16,\n      \"preserve_ci\": [\n        8.974532074387683e-16,\n        9.085758807083397e-16\n      ],\n      \"break_median\": 0.003613457299070386,\n      \"break_ci\": [\n        0.0036003390575372416,\n        0.003628158650264315\n      ],\n      \"auc\": 1.0\n    },\n    \"E4\": {\n      \"median_abs_log_R_error\": 0.0060453899997995626,\n      \"median_relative_error_approx\": 0.006063700248860771,\n      \"normalized_shape_test_R2\": -0.005772996231572236\n    },\n    \"E9\": {\n      \"0\": {\n        \"critical_value\": 0.0,\n        \"multiplicity\": 1,\n        \"median_abs_centroid_error\": 0.0013038959194298424,\n        \"ci\": [\n          0.0012356013572033578,\n          0.0013812132446393793\n        ]\n      },\n      \"1\": {\n        \"critical_value\": 3.0,\n        \"multiplicity\": 4,\n        \"median_abs_centroid_error\": 0.0006698269130311907,\n        \"ci\": [\n          0.0006331020578848934,\n          0.0006967788887433102\n        ]\n      },\n      \"2\": {\n        \"critical_value\": 8.0,\n        \"multiplicity\": 9,\n        \"median_abs_centroid_error\": 0.00045064858838861355,\n        \"ci\": [\n          0.0004272300969372367,\n          0.000474909187214978\n        ]\n      },\n      \"3\": {\n        \"critical_value\": 15.0,\n        \"multiplicity\": 16,\n        \"median_abs_centroid_error\": 0.0003370235953186196,\n        \"ci\": [\n          0.00032064131469589086,\n          0.00035204325831119656\n        ]\n      }\n    },\n    \"E11_confusion_counts\": {\n      \"S3\": {\n        \"S3\": 4995,\n        \"RP3\": 5,\n        \"T3\": 0\n      },\n      \"RP3\": {\n        \"S3\": 0,\n        \"RP3\": 5000,\n        \"T3\": 0\n      },\n      \"T3\": {\n        \"S3\": 0,\n        \"RP3\": 0,\n        \"T3\": 5000\n      }\n    }\n  }\n}\n"
+    }
+  ],
+  "checked_utc": "2026-10-21T16:54:21.651849+00:00",
+  "environment": "Linux CPython 3.13.5; existing installed dependencies via isolated test venv with inherited /opt/pyvenv site-packages. Not an independent clean dependency installation.",
+  "scientific_thresholds_or_sample_counts_changed": false
+}

@@ -1,0 +1,11 @@
+{
+  "G0_normalization": true,
+  "G1_quadric": true,
+  "G2_gauge": true,
+  "G3_spectrum": true,
+  "G4_dimension_5modes_2pct": true,
+  "G5_joint_5modes_2pct_70det": true,
+  "G6_heldout_2pct": true,
+  "G7_b1_zero_S3": true,
+  "G8_discriminant_centroid": true
+}

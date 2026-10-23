@@ -1,0 +1,47 @@
+{
+  "confirmatory_seed": 84320711,
+  "quadric_reps": 1000,
+  "quadric_points": 256,
+  "gauge_reps": 2000,
+  "spectral_reps": 500,
+  "radius_reps": 5000,
+  "dimension_reps": 10000,
+  "joint_reps": 10000,
+  "heldout_reps": 10000,
+  "discriminant_reps": 2000,
+  "berger_reps": 5000,
+  "dimension_candidates": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "noise_levels": [
+    0.01,
+    0.02,
+    0.05
+  ],
+  "mode_counts": [
+    3,
+    5,
+    8
+  ],
+  "joint_mode_count": 5,
+  "joint_detection_probability": 0.7,
+  "operator_break_relative_norm": 0.01,
+  "discriminant_operator_noise": 0.001,
+  "berger_kmax": 4,
+  "berger_rhos": [
+    1.0,
+    1.02,
+    1.05,
+    1.1
+  ],
+  "berger_noise_levels": [
+    0.005,
+    0.01,
+    0.02
+  ]
+}

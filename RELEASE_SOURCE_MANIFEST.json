@@ -1,0 +1,230 @@
+{
+  "excluded_counts": {
+    "NONSOFTWARE_DOC_OR_SECRET_FORMAT": 2
+  },
+  "files": [
+    {
+      "bytes": 282,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/.github/workflows/source-check.yml",
+      "path": ".github/workflows/source-check.yml",
+      "sha256": "ee3916cd30ed52bbdf5f183c874e542fb06f07f073c5434ab1a43a991fc760b0"
+    },
+    {
+      "bytes": 1243,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/AUTHOR_DECLARATIONS_TEMPLATE.md",
+      "path": "AUTHOR_DECLARATIONS_TEMPLATE.md",
+      "sha256": "dcb538ddf5184cb12cbce0b76bcca0955f0ea94924dc2fdc4748eda11680ca74"
+    },
+    {
+      "bytes": 417,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/CITATION.cff",
+      "path": "CITATION.cff",
+      "sha256": "18152c9e4696ebaf07c69de997bb8158b85df3c5ceeecc04e0c0fe69626e3e44"
+    },
+    {
+      "bytes": 508,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/DEPENDENCIES_AND_CHECKS.md",
+      "path": "DEPENDENCIES_AND_CHECKS.md",
+      "sha256": "55b7c5464933249aeeb4d189b747b0c53c6cb23252becc18d244d8bb6f5b2f89"
+    },
+    {
+      "bytes": 5538,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/FILE_MANIFEST.json",
+      "path": "FILE_MANIFEST.json",
+      "sha256": "961eb19a3cc0d52bb88e66ec99ceb21d48c439822616fa733a794b6e30ea29dc"
+    },
+    {
+      "bytes": 2756,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/MANIFEST_SHA256.txt",
+      "path": "MANIFEST_SHA256.txt",
+      "sha256": "2b3e36ffba919b321c0cd7f573478016a24bfa1ba3bd884ad1cf65c095da8f5a"
+    },
+    {
+      "bytes": 1840,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/README.md",
+      "path": "README.md",
+      "sha256": "75922e859a649f38d88a55b12a6da79bdf5836b1770eab548c84080502393b8a"
+    },
+    {
+      "bytes": 215,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/RELEASE_NOTES.md",
+      "path": "RELEASE_NOTES.md",
+      "sha256": "ff1d760ca9965999eb8e3b81b9eab0c150f3ef3ff9482fa22ad6de93bc938326"
+    },
+    {
+      "bytes": 1049,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/RELEASE_SPEC.json",
+      "path": "RELEASE_SPEC.json",
+      "sha256": "627573778d837b6a8d68e551764402fe37c74454adcd210c1bec7e568d6cee35"
+    },
+    {
+      "bytes": 1256,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/SUBMISSION_CHECKLIST.md",
+      "path": "SUBMISSION_CHECKLIST.md",
+      "sha256": "d36dc64b5b35a95d52b052e6bdb664e4853f0e7347662df41d5d3bda46a123bc"
+    },
+    {
+      "bytes": 2748,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/UPSTREAM_README.md",
+      "path": "UPSTREAM_README.md",
+      "sha256": "6f8daf927d892641aeda35ba10ab893ac935242edf21979ab6aad82d07097753"
+    },
+    {
+      "bytes": 19,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/VERSION",
+      "path": "VERSION",
+      "sha256": "2f380884399910f24de151dfb9c318f2b585066c0d8fe3ec0a4c260ab8460de1"
+    },
+    {
+      "bytes": 3543,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/checks/RESULT.json",
+      "path": "checks/RESULT.json",
+      "sha256": "5275d2528d6e61af3b7ad89abe2c02a819a4b7c0e9178891aa3d09d13a95fa9f"
+    },
+    {
+      "bytes": 20851,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/code/run_confirmatory.py",
+      "path": "code/run_confirmatory.py",
+      "sha256": "64923e31314c0f664f9bfa1e1ab7946dcd378855e5fb4d3938c0d5039a87e5a1"
+    },
+    {
+      "bytes": 25656,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/docs/manuscript.tex",
+      "path": "docs/manuscript.tex",
+      "sha256": "e195d43abf4ab6186b2c59aab47235cc39790b551c43acb6cd0adb27f79fd544"
+    },
+    {
+      "bytes": 1578,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/docs/references.bib",
+      "path": "docs/references.bib",
+      "sha256": "5c4ac7067fe9c19ea7e77fee0a9ccc30ab8f0185fb77d4046137b0a266ce7d5c"
+    },
+    {
+      "bytes": 15206,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/docs/supplement.tex",
+      "path": "docs/supplement.tex",
+      "sha256": "bc6548902ac2306d338a71fe1259791a893e7bbe0058ef7201ba947ba5099594"
+    },
+    {
+      "bytes": 135561,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/figures/Figure_1_dimension_recovery.png",
+      "path": "figures/Figure_1_dimension_recovery.png",
+      "sha256": "fd4837f9b3f113a48bcc31ea37575f3623511f53f42cf2f3bbb31b430b4bee58"
+    },
+    {
+      "bytes": 124880,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/figures/Figure_2_joint_ablation.png",
+      "path": "figures/Figure_2_joint_ablation.png",
+      "sha256": "98b9a1062d750e94ea1c114a07af3549b56c3fb06fd14e4d00e0cb9d2c9ae761"
+    },
+    {
+      "bytes": 157501,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/figures/Figure_3_berger_detection.png",
+      "path": "figures/Figure_3_berger_detection.png",
+      "sha256": "da65a278cedd4eeddb02aaea46df46d9ba5513219f685f796b1387387a5ea31b"
+    },
+    {
+      "bytes": 109422,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/figures/Figure_4_compactification_confusion.png",
+      "path": "figures/Figure_4_compactification_confusion.png",
+      "sha256": "e050dfe62161832f21ef80ef0f1e867432f56347fe09ccd5b210a77cb0ced3ab"
+    },
+    {
+      "bytes": 66101,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/figures/Figure_5_discriminant_roots.png",
+      "path": "figures/Figure_5_discriminant_roots.png",
+      "sha256": "213117b087f1dd08469401f08c0e4157c486c1f3d93d61d1bf49bc61d8efd1f4"
+    },
+    {
+      "bytes": 52,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/requirements.txt",
+      "path": "requirements.txt",
+      "sha256": "c96199ef81ade15361474fd4c6479ea611eb85997230bef8b702a042ad8e62ba"
+    },
+    {
+      "bytes": 769,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/berger_adversarial.csv",
+      "path": "results/berger_adversarial.csv",
+      "sha256": "965e8531063281e7ded23db3d57165a72224c16ae00047018d87ebc7c06542da"
+    },
+    {
+      "bytes": 153,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/compactification_confusion.csv",
+      "path": "results/compactification_confusion.csv",
+      "sha256": "3a1c37a3a96d9ce3ac70b9f6bab405d11a830f5f805bd5c2fe3da9644d9bb4e1"
+    },
+    {
+      "bytes": 738,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/confirmatory_config.json",
+      "path": "results/confirmatory_config.json",
+      "sha256": "0302065e8e4b5f067ff7d33eee4d3d12c015bd60a23ef16e77c71019f4835e50"
+    },
+    {
+      "bytes": 2270,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/confirmatory_summary.json",
+      "path": "results/confirmatory_summary.json",
+      "sha256": "6fd0f51c0a2684112bfb6cf0078552d6643a186b9f57dca89366009c51ca3a49"
+    },
+    {
+      "bytes": 504,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/dimension_identification.csv",
+      "path": "results/dimension_identification.csv",
+      "sha256": "c12580a480e000a8b690bf28f701ba281fd79b2e29f69422863548386659b586"
+    },
+    {
+      "bytes": 257,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/gate_results.json",
+      "path": "results/gate_results.json",
+      "sha256": "76687e1337c400084a78805d4fc06b029ef88bda4bd12fbac9dfa150d7e6b417"
+    },
+    {
+      "bytes": 320,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/heldout_prediction.csv",
+      "path": "results/heldout_prediction.csv",
+      "sha256": "3a823308a5446ef855f5dbfe1c7b7aaad47beadc642ec22b93c4f3a9b055e562"
+    },
+    {
+      "bytes": 402,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/joint_reconstructibility.csv",
+      "path": "results/joint_reconstructibility.csv",
+      "sha256": "3f2f1d8bcaa58e8e33330b42adbfed6296e410283acfb73c30794797a0844cb4"
+    },
+    {
+      "bytes": 0,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/run_stderr.log",
+      "path": "results/run_stderr.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 2790,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/run_stdout.json",
+      "path": "results/run_stdout.json",
+      "sha256": "cf2b6b524ecaa9a5062525b5b4980d9be499b14d70f66dd5b3842b01379fa538"
+    },
+    {
+      "bytes": 70,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/results/topology_betti.csv",
+      "path": "results/topology_betti.csv",
+      "sha256": "26fc4ada449eefc29550eed97684ce467712fb4acdb81172673e0746a8a4ed16"
+    },
+    {
+      "bytes": 543,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/run_all.sh",
+      "path": "run_all.sh",
+      "sha256": "1652027142f86293ecb9d347e99ba5a9909d8864af0a70413bb87c5da9222fcb"
+    },
+    {
+      "bytes": 2366,
+      "original_source_member": "Invariant_CP03R1/github/ogd-spherical-spectrum/run_checks.py",
+      "path": "run_checks.py",
+      "sha256": "9a59bff276aad8abeba201a01fa2a29525db6af9e71ebb83a58a7cc6cea56990"
+    }
+  ],
+  "published_files": 36,
+  "repository": "github/ogd-spherical-spectrum",
+  "schema": "invariant.source_member_manifest.v1",
+  "scope": "source files + minimal repository metadata; no new training or independent experiment",
+  "selected_from_files": 38,
+  "source_archive": "CP03R1",
+  "source_archive_sha256": "9507b5a42e661ae7588ab69cb395597749f043c419ebd981a6c91051516a3209"
+}
